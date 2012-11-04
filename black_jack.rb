@@ -11,7 +11,7 @@
 3b. If stay, deal to dealer
 4. Total cards
 5. Announce winner.
-#this is a test for git.
+
 
 =end
 user = {}
